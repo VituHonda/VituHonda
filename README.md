@@ -16,6 +16,7 @@
 
 <div align="center">
 
+<!--
 <h3>Projetos:</h3>
 
 | Nome do Projeto | Link do Repositório |  Linguagens 
@@ -25,7 +26,7 @@
 | Gerenciador de funcionários | <a href="https://github.com/VituHonda/evo-angular-aspnetcore">Link do repositório</a> | <img align="center" alt="Dotnet Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"><img align="center" alt="Angular Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"><img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img align="center" alt="C# Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
 <div>
-
+--->
 
 <div align="center"> 
   <h3>Contato:</h3>
@@ -108,19 +109,7 @@
     
   </div>
 </div>
-  
-##
-
-<div align="center">
-<a href="https://github.com/VituHonda">
-  <img align="center" height="220px" src="https://vituhonda-github-readme-stats-git-master-vituhonda.vercel.app/api?username=vituhonda&show_icons=true&hide_border=true&theme=github_dark"/>
-</a>
-<a href="https://github.com/VituHonda">
-  <img align="center" height="220px" src="https://vituhonda-github-readme-stats-git-master-vituhonda.vercel.app/api/top-langs/?username=vituhonda&hide_border=true&theme=github_dark"/>
-</a>
-</div>
-<div>
-
+ 
 
 ![snake gif](https://github.com/VituHonda/VituHonda/blob/output/github-contribution-grid-snake-dark.svg)
  
