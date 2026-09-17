@@ -58,8 +58,9 @@
   <img align="center" alt="Css Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Kotlin Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="C# Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
-  <img width="24" height="24" alt="claude" src="https://github.com/user-attachments/assets/182eb937-ceda-4f05-aa0d-7f735f5a7486" />
-<img align="center" alt="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="React Icon" height="30" width="40" src="/Assets/claude.svg" />
+
 
 
   </div>
